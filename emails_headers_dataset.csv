@@ -1,0 +1,534 @@
+ham or spam,from_header,is_no_reply,reply_to_header,reply_is_same_as_from,content_type_header,certifying_authorities
+spam,Filippi Carine <Carine.Filippi@ac-creteil.fr>,False,schaefflermariaelisabeth03@gmail.com,False,multipart/alternative,dkim
+spam,Daniel F Maciel <danielmaciel@surge.pt>,False,,,multipart/mixed,dkim
+spam,PC Garage <sales@pcgarage.ro>,False,PC Garage <sales@pcgarage.ro>,True,text/html,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Urban Project <noreply@urbanprojectstore.com>,True,no-reply@urbanprojectstore.com,False,multipart/alternative,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefc1772766300-198_HTML-32580500-536005980-300@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Illuvium DAO <noreply@illuvium.io>,True,noreply@illuvium.io,False,multipart/alternative,dkim
+spam,Revolut <no-reply@revolut.com>,True,,,multipart/mixed,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,Clube Descontos recomenda Casino Estoril <news@info4.clubedescontos.com>,False,clubedescontos@datasourcing.info,False,multipart/alternative,dkim
+spam,Instant Heart Rate <noreply@instantheartrate.com>,True,,,text/html,dkim
+spam,Ultra Librarian <ultra@ultralibrarian.com>,False,noreply@ultralibrarian.com,False,multipart/alternative,dkim
+spam,"""standvirtual.com"" <noreply@standvirtual.com>",True,noreply@standvirtual.com,False,multipart/mixed,dkim
+spam,Diana Fulgêncio | Unlimited Future <marketing@future.pt>,False,Diana Fulgêncio | Unlimited Future <marketing@future.pt>,True,multipart/alternative,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,Wells <wells@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-fec313767562067a-443_HTML-20277574-510004675-3166@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,Speechify <deals@em.speechify.com>,False,,,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,Speechify <deals@em.speechify.com>,False,,,multipart/alternative,dkim
+spam,IO Interactive <info@newsletter.ioi.dk>,False,no-reply@ioi.dk,False,multipart/mixed,dkim
+spam,IO Interactive <info@newsletter.ioi.dk>,False,no-reply@ioi.dk,False,multipart/mixed,dkim
+spam,Gogoalshop <newsletter@gogoalshop.club>,False,Gogoalshop <newsletter@gogoalshop.club>,True,multipart/alternative,dkim
+spam,The Vintage Box Company <no-reply@vintageboxcompany.com>,True,,,multipart/alternative,dkim
+spam,The Vintage Box Company <no-reply@vintageboxcompany.com>,True,,,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefd1771716200-198_HTML-32580500-536005980-226@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Eletrocortes <online@electrocortes.pt>,False,Eletrocortes <online@electrocortes.pt>,True,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,Wells <wells@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-fec7137574640674-443_HTML-20277574-510004675-1913@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,BOXPT <marketing@boxpt.com>,False,BOXPT <marketing@boxpt.com>,True,multipart/alternative,dkim
+spam,BOXPT <marketing@boxpt.com>,False,BOXPT <marketing@boxpt.com>,True,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-ff031771746502-198_HTML-32580500-536005980-237@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fef81678736304-198_HTML-32580500-536005980-153@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Gabriel Torres <vendas@clubedohardware.com.br>,False,vendas@clubedohardware.com.br,False,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,"""Engage with Deep-Image.AI"" <do-not-reply@mailing.deep-image.ai>",False,support@mailing.deep-image.ai,False,multipart/alternative,dkim
+spam,Sua entɾega <teamsupport-Bogalho-0000051071242@questionprov617225.com>,False,,,text/html,dkim
+spam,Continente <continente@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-fec113757d660475-443_HTML-20277574-510004675-2722@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,Continente <continente@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-fec2137577630475-443_HTML-20277574-510004675-2254@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,Continente <continente@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-fec7137577670678-443_HTML-20277574-510004675-9281@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-ff071774756504-198_HTML-32580500-536005980-253@news.tempus.pt>,False,multipart/alternative,dkim
+spam,PC Garage <sales@pcgarage.ro>,False,PC Garage <sales@pcgarage.ro>,True,text/html,dkim
+spam,Homefitness <info@6783640.brevosend.com>,False,info@homefitness.pt,False,multipart/alternative,dkim
+spam,"""Learning@Cisco"" <learningatcisco-noreply@cisco.com>",True,learningatcisco-noreply@cisco.com,False,multipart/alternative,dkim; dkim; spf
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,PC Garage <sales@pcgarage.ro>,False,PC Garage <sales@pcgarage.ro>,True,text/html,dkim
+spam,Gleam Account Recovery <no-reply@gleam.io>,True,,,text/html,dkim
+spam,IO Interactive <info@newsletter.ioi.dk>,False,no-reply@ioi.dk,False,multipart/mixed,dkim
+spam,Presidência <presidencia@ipc.pt>,False,noreply@ipc.pt,False,multipart/related,dkim; dkim; dkim
+spam,Illuvium DAO <noreply@illuvium.io>,True,noreply@illuvium.io,False,multipart/alternative,dkim
+spam,"""Engage with Deep-Image.AI"" <do-not-reply@mailing.deep-image.ai>",False,support@mailing.deep-image.ai,False,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Fotolux <we@pic-time.net>,False,fotolux.pt@gmail.com,False,multipart/alternative,dkim
+spam,Maria Modista <geral@mariamodista.pt>,False,Maria Modista <geral@mariamodista.pt>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Jory at Font Awesome <hello@m.fontawesome.com>,False,Font Awesome <marketing@fontawesome.com>,False,multipart/alternative,
+spam,Jory at Font Awesome <hello@m.fontawesome.com>,False,Font Awesome <marketing@fontawesome.com>,False,multipart/alternative,dkim
+spam,Edileusa Sousa <edileusa.sousa@ipc.pt>,False,noreply@ipc.pt,False,multipart/related,dkim; dkim; dkim
+spam,PC Garage Home & Care <sales@pcgarage.ro>,False,PC Garage Home & Care <sales@pcgarage.ro>,True,text/html,dkim
+spam,Burda Style <hello@burdastyle.pt>,False,noreply@burdastyle.pt,False,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefb1773736000-198_HTML-32580500-536005980-252@news.tempus.pt>,False,multipart/alternative,dkim
+spam,IO Interactive <info@newsletter.ioi.dk>,False,no-reply@ioi.dk,False,multipart/mixed,dkim
+spam,Inês Castro Morgado <ins.castromorgado@gmail.com>,False,,,multipart/mixed,spf
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefb177371650d-198_HTML-32580500-536005980-39@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefb1774736403-198_HTML-32580500-536005980-30@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Kreitler Rollers <marketing@mrpbike.com>,False,,,multipart/alternative,dkim
+spam,Seekers <hello@seekersjourney.com>,False,Seekers <hello@seekersjourney.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Ubisoft <news@updates.ubisoft.com>,False,Ubisoft <reply-fecd157175670175-23_HTML-216977991-100015380-14185@updates.ubisoft.com>,False,multipart/alternative,dkim
+spam,Ed Fisica do Zero - Jorge Oliveira <ed-fisica-do-zero-jorge-oliveira@mail.hotmart.host>,False,jbo.bueno@gmail.com,False,multipart/alternative,dkim
+spam,Titan HZZ <titanhzz2018@gmail.com>,False,,,multipart/alternative,
+spam,SHENZHENAUDIO <auto-noreply@send.shenzhenaudio.com>,True,,,multipart/alternative,dkim
+spam,QuestionPro Survey <survey@qp-mail.com>,False,noreplysurvey@pt.fnac.com,False,multipart/alternative,dkim
+spam,QuestionPro Survey <survey@qp-mail.com>,False,noreplysurvey@pt.fnac.com,False,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,SHENZHENAUDIO <auto-noreply@send.shenzhenaudio.com>,True,,,multipart/alternative,dkim
+spam,SURGE <geral@surge.pt>,False,,,multipart/mixed,dkim
+spam,Seekers <hello@seekersjourney.com>,False,Seekers <hello@seekersjourney.com>,True,multipart/alternative,dkim
+spam,Holofote - GrupoSD <holofote@gruposd.pt>,False,Holofote - GrupoSD <holofote@gruposd.pt>,True,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,Titan HZZ <titanhzz2018@gmail.com>,False,,,multipart/alternative,
+spam,Font Awesome <hello@m.fontawesome.com>,False,Font Awesome <marketing@fontawesome.com>,False,multipart/alternative,dkim
+spam,Illuvium DAO <noreply@illuvium.io>,True,noreply@illuvium.io,False,multipart/alternative,dkim
+spam,Wells <wells@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-fec6137575660379-443_HTML-20277574-510004675-7326@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,The Vintage Box Company <no-reply@vintageboxcompany.com>,True,,,multipart/alternative,dkim
+spam,High Tea Music <contact@highteamusic.nl>,False,,,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,Illuvium DAO <noreply@illuvium.io>,True,noreply@illuvium.io,False,multipart/alternative,dkim
+spam,"""Illuvium.io"" <requests@judge.me>",False,requests@judge.me,False,text/html,dkim
+spam,Facebook <notification@facebookmail.com>,False,noreply <noreply@facebookmail.com>,False,multipart/alternative,dkim
+spam,GitHub Education <githubeducation@sgmail02.github.com>,False,"""githubeducation@github.com"" <githubeducation@github.com>",False,multipart/alternative,
+spam,GitHub Education <githubeducation@sgmail02.github.com>,False,githubeducation@github.com,False,multipart/alternative,dkim
+spam,Prozis <news@prozis.email>,False,,,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,IO Interactive <info@newsletter.ioi.dk>,False,no-reply@ioi.dk,False,multipart/mixed,dkim
+spam,IO Interactive <info@newsletter.ioi.dk>,False,no-reply@ioi.dk,False,multipart/mixed,dkim
+spam,Illuvium DAO <noreply@illuvium.io>,True,noreply@illuvium.io,False,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,  Leo from buycycle <Leo@news.buycycle.com>,False,noreply@buycycle.com,False,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,Ultra Librarian <ultra@ultralibrarian.com>,False,noreply@ultralibrarian.com,False,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,Bricomarché <noreply@bricomarche.pt>,True,Bricomarché <noreply@bricomarche.pt>,True,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,Control Portugal <newsletter@control.pt>,False,no-reply@control.pt,False,multipart/alternative,dkim
+spam,Eder D Musk Foundation <teofiser@t-online.hu>,False,Eder D Musk Foundation <ho.buffett@gmail.com>,False,multipart/alternative,spf; iprev
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,PC Garage Home & Care <sales@pcgarage.ro>,False,PC Garage Home & Care <sales@pcgarage.ro>,True,text/html,dkim
+spam,Ericeira Surf & Skate <do-not-reply@mkt.ericeirasurfskate.pt>,False,Ericeira Surf & Skate <reply-fec615777064027b-95_HTML-58531744-536004419-408@mkt.despomar.com>,False,multipart/alternative,dkim
+spam,Martin from RemNote <hello@broadcasts.remnote.com>,False,hello@broadcasts.remnote.com,False,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefe1773756003-198_HTML-32580500-536005980-130@news.tempus.pt>,False,multipart/alternative,dkim
+spam,"""support@xtb.pt"" <crm-no-reply@xtb.com>",True,,,multipart/mixed,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,XTB Portugal <sales@xtb.pt>,False,sales@xtb.pt,False,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Holofote - GrupoSD <holofote@gruposd.pt>,False,Holofote - GrupoSD <holofote@gruposd.pt>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefe1773726004-198_HTML-32580500-536005980-281@news.tempus.pt>,False,multipart/alternative,dkim
+spam,ILVTeam <noreply@sweepwidget.com>,True,ILVTeam <noreply@sweepwidget.com>,True,text/html,dkim
+spam,PC Garage Home & Care <sales@pcgarage.ro>,False,PC Garage Home & Care <sales@pcgarage.ro>,True,text/html,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Ericeira Surf & Skate <do-not-reply@mkt.ericeirasurfskate.pt>,False,Ericeira Surf & Skate <reply-feca157774600c7d-95_HTML-58531744-536004419-112@mkt.despomar.com>,False,multipart/alternative,dkim
+spam,Seekers <hello@seekersjourney.com>,False,Seekers <hello@seekersjourney.com>,True,multipart/alternative,dkim
+spam,rafa@rafaoutsystems.com,False,,,multipart/mixed,dkim
+spam,Boutique dos Relógios <boutiquedosrelogios@news.tempus.pt>,False,Boutique dos Relógios​ <reply-fefb1774726105-198_HTML-32580500-536005980-177@news.tempus.pt>,False,multipart/alternative,dkim
+spam,Desconto Estudante - Destu <ajuda@descontoestudante.com>,False,ajuda@descontoestudante.com,False,multipart/alternative,dkim
+spam,DAVID RACHEL <dr2716459@gmail.com>,False,,,multipart/alternative,dkim
+spam,Last2ticket <sophia.allen@last2ticket.com>,False,,,multipart/alternative,dkim
+spam,CTT <cttparticulares@mailing.ctt.pt>,False,cttparticulares@mailing.ctt.pt,False,multipart/alternative,dkim
+spam,The Vintage Box Company <no-reply@vintageboxcompany.com>,True,,,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,  Johanna from buycycle <Johanna@news.buycycle.com>,False,noreply@buycycle.com,False,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Wells <wells@newsletter.cartaocontinente.pt>,False,SONAEMC <reply-febd13747d63037c-443_HTML-20277574-510004675-3759@link.sonaemc.com>,False,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Embark <noreply@embark.email>,True,,,text/html,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,Stardock <communications@stardockcorporation.com>,False,Stardock <communications@stardockcorporation.com>,True,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Cisco Networking Academy <netacademail@external.cisco.com>,False,netacademail@external.cisco.com,False,multipart/alternative,dkim
+spam, Johanna from buycycle <Johanna@news.buycycle.com>,False,noreply@buycycle.com,False,multipart/alternative,dkim
+spam,Betclic <communication@emails.betclic.pt>,False,,,multipart/alternative,dkim
+spam,Ultra Librarian <ultra@ultralibrarian.com>,False,noreply@ultralibrarian.com,False,multipart/alternative,dkim
+spam,Titan HZZ <titanhzz2018@gmail.com>,False,,,multipart/alternative,
+spam,Font Awesome <hello@m.fontawesome.com>,False,Font Awesome <marketing@fontawesome.com>,False,multipart/alternative,dkim
+spam,UNlVERSO <universo@universopta.com>,False,,,multipart/alternative,spf; spf
+spam,"""Times Higher Education (THE)"" <student@timeshighereducationemail.com>",False,student@timeshighereducationemail.com,False,multipart/mixed,dkim
+spam,Dominos Pizza <newsletter@dominospizza.pt>,False,Dominos Pizza <newsletter@dominospizza.pt>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Manuel da Bolt <portugal@rides-promotions.bolt.eu>,False,portugal@bolt.eu,False,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,Workout Weight Loss Diet Wellness <workoutfitnessexercise-space@quora.com>,False,,,multipart/alternative,dkim
+spam,Gogoalshop <Gogoalshopinfo@info.gogoalshop.top>,False,customerservice@gogoalshop.club,False,multipart/alternative,dkim
+spam,Stardock Entertainment <communications@stardockentertainment.info>,False,Stardock Entertainment <communications@stardockentertainment.info>,True,multipart/alternative,dkim
+spam,Skullcandy <noreply@skullcandy.com>,True,,,multipart/alternative,dkim
+spam,The Miro Team <team@mail.miro.com>,False,m.team@miro.com,False,multipart/alternative,dkim; dkim; spf
+spam,The Vintage Box Company <no-reply@vintageboxcompany.com>,True,,,multipart/alternative,dkim
+spam,Cultura IPC <cultura@ipc.pt>,False,noreply@ipc.pt,False,multipart/mixed,dkim; dkim; spf
+spam,Cisco Networking Academy <netacademail@external.cisco.com>,False,netacademail@external.cisco.com,False,multipart/alternative,dkim; dkim; spf
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Sara da Sport Zone <info@pt-sprintersports.com>,False,reply@pt-sprintersports.com,False,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,Equivalenza <info@mail.equivalenza.com>,False,,,multipart/alternative,dkim
+spam,McDonald's Portugal <news@news.mcdonalds.pt>,False,noreply@news.mcdonalds.pt,False,multipart/alternative,dkim
+spam,Celeiro <news@celeiro.pt>,False,Celeiro <news@celeiro.pt>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,TutorialsPoint <webmaster@tutorialspoint.com>,False,webmaster@tutorialspoint.com,False,multipart/alternative,dkim
+spam,Shakes & Fidget <noreply@newsletter.sfgame.net>,True,,,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,N e t f l i x® <qznqiktkzfkdffyhegbpyldi@ggnhu.us>,False,,,text/html,spf
+spam,Illuvium DAO <noreply@illuvium.io>,True,noreply@illuvium.io,False,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,Speechify <deals@em.speechify.com>,False,,,multipart/alternative,dkim
+spam,MIKE DAVIS <newsletter@mikedavis.pt>,False,,,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,Stunlock Newsletter <mailer@stunlock.com>,False,hello@stunlock.com,False,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,Martin from RemNote <hello@broadcasts.remnote.com>,False,hello@broadcasts.remnote.com,False,multipart/alternative,dkim
+spam,TutorialsPoint <webmaster@tutorialspoint.com>,False,webmaster@tutorialspoint.com,False,multipart/alternative,dkim
+spam,Paymonade <explore@paymonade.tech>,False,,,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,Bricomarché <noreply@bricomarche.pt>,True,Bricomarché <noreply@bricomarche.pt>,True,multipart/alternative,dkim
+spam,TutorialsPoint <webmaster@tutorialspoint.com>,False,webmaster@tutorialspoint.com,False,multipart/alternative,dkim
+spam,"""Engage with Deep-Image.AI"" <do-not-reply@mailing.deep-image.ai>",False,support@mailing.deep-image.ai,False,multipart/alternative,dkim
+spam,"""Engage with Deep-Image.AI"" <do-not-reply@mailing.deep-image.ai>",False,mpus@deep-image.ai,False,multipart/alternative,dkim
+spam,Slidesgo <info@email-slidesgo.com>,False,Slidesgo <reply-fecb137174660078-318_HTML-573572788-510003371-435@email-slidesgo.com>,False,multipart/alternative,dkim
+spam,Font Awesome <feedback@m.fontawesome.com>,False,,,multipart/alternative,
+spam,Font Awesome <feedback@m.fontawesome.com>,False,,,multipart/alternative,dkim
+spam,Praia Bingo <praiabingo@pipastudios.com>,False,,,multipart/alternative,dkim
+spam,Shakes & Fidget <noreply@newsletter.sfgame.net>,True,,,multipart/alternative,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,XTB Portugal <sales@xtb.pt>,False,sales@xtb.pt,False,multipart/alternative,dkim
+spam,Typeform Notifications <notifications@typeform.com>,False,no-reply@typeform.com,False,text/html,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,TutorialsPoint <webmaster@tutorialspoint.com>,False,webmaster@tutorialspoint.com,False,multipart/alternative,dkim
+spam,TutorialsPoint <webmaster@tutorialspoint.com>,False,webmaster@tutorialspoint.com,False,multipart/alternative,dkim
+spam,Diana Fulgêncio | Unlimited Future <marketing@future.pt>,False,Diana Fulgêncio | Unlimited Future <marketing@future.pt>,True,multipart/alternative,dkim
+spam,Diana | Unlimited Future <marketing@future.pt>,False,Diana | Unlimited Future <marketing@future.pt>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,BOXPT <marketing@boxpt.com>,False,BOXPT <marketing@boxpt.com>,True,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Cisco Networking Academy <netacademail@external.cisco.com>,False,netacademail@external.cisco.com,False,multipart/alternative,dkim; dkim; spf
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,OSCAR <info@oscar-app.com>,False,OSCAR <info@oscar-app.com>,True,multipart/alternative,dkim
+spam,Coin Master <hello@news.playcoinmaster.com>,False,do-not-reply@playcoinmaster.com,False,multipart/alternative,dkim
+spam,XTB Portugal <sales@xtb.pt>,False,sales@xtb.pt,False,multipart/alternative,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,Zaask <info@mkt.zaask.pt>,False,info@zaask.pt,False,multipart/alternative,dkim
+spam,Bricomarché por Clube Descontos <news@info4.clubedescontos.com>,False,clubedescontos@datasourcing.info,False,multipart/alternative,dkim
+spam,Bricomarché por Clube Descontos <news@info4.clubedescontos.com>,False,clubedescontos@datasourcing.info,False,multipart/alternative,dkim
+spam,BigBuy News <newsletter@bigbuy.eu>,False,newsletter@bigbuy.eu,False,multipart/alternative,dkim
+spam,RunningXpert <newsletter-pt@runningxpert.com>,False,,,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,Banco Alimentar Contra a Fome do Porto <noreply@baporto.pt>,True,,,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz Coelho <beaccoelho@hotmail.com>,False,,,multipart/alternative,spf
+ham,rui@upt.pt,False,,,multipart/mixed,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,INOPOL <inopol@ipc.pt>,False,,,multipart/related,dkim; dkim; dkim
+ham,no-reply@notificacoes.ama.gov.pt,True,,,multipart/mixed,dkim
+ham,no-reply@notificacoes.ama.gov.pt,True,,,multipart/mixed,dkim
+ham,no-reply@notificacoes.ama.gov.pt,True,,,multipart/mixed,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Lenovo ID Team <lpsadmin@idmail.lenovo.com>,False,,,multipart/mixed,spf
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,portal@isep.ipp.pt,False,,,text/plain,spf
+ham,portal@isep.ipp.pt,False,,,text/plain,spf
+ham,portal@isep.ipp.pt,False,,,text/plain,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Trilhos | INOPOL IPC <trilhos@ipc.pt>,False,trilhos@ipc.pt,False,multipart/mixed,dkim
+ham,Formação <formacao@ipav.pt>,False,,,multipart/alternative,dkim; dkim
+ham,Academia Portuguesa de Psico-Oncologia APPO <academia.portuguesa.po@gmail.com>,False,,,multipart/mixed,dkim
+ham,Academia Portuguesa de Psico-Oncologia APPO <academia.portuguesa.po@gmail.com>,False,,,multipart/alternative,dkim
+ham,SAS <sas@ipc.pt>,False,,,multipart/mixed,dkim; dkim; dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,XIV Congresso Nacional e III Congresso Luso-Brasileiro de Psico-Oncologia <noreply@congressopsicooncologia.com>,True,academia.portuguesa.po@gmail.com,False,multipart/related,dkim; spf; auth
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/alternative,dkim
+ham,Maria Araújo <mariaxaraujo@gmail.com>,False,,,multipart/alternative,dkim
+ham,trilhos@ipc.pt,False,,,multipart/related,dkim; dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,"""ana.bartolo"" <ana.bartolo@mail.upt.pt>",False,,,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/alternative,dkim
+ham,Manuel Marques <ispg2019103392@ispgaya.pt>,False,,,multipart/mixed,spf
+ham,João Moreira <ispg2019101037@ispgaya.pt>,False,,,multipart/mixed,spf
+ham,Manuel Marques <ispg2019103392@ispgaya.pt>,False,,,multipart/mixed,spf
+ham,José Morais <jmorais@ispgaya.pt>,False,,,multipart/related,dkim; dkim
+ham,José Morais <jmorais@ispgaya.pt>,False,,,multipart/related,dkim; dkim
+ham,José Morais <jmorais@ispgaya.pt>,False,,,multipart/related,dkim; dkim
+ham,faturacao@upt.pt,False,,,multipart/mixed,dkim
+ham,faturacao@upt.pt,False,,,multipart/mixed,dkim
+ham,Faturação UPT <faturacao@upt.pt>,False,,,multipart/mixed,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,us21-cb10fa6dcc-f58caf8276@inbound.mailchimpapp.net,False,multipart/alternative,dkim
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/mixed,dkim
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/alternative,dkim
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/alternative,dkim
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/alternative,dkim
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/alternative,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/mixed,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/mixed,spf
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/mixed,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/related,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/alternative,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/related,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/related,dkim
+ham,"""José Peixoto :: CRUZFER ::"" <j.peixoto@cruzfer.pt>",False,,,multipart/mixed,dkim; dkim
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/alternative,
+ham,"""José Peixoto :: CRUZFER ::"" <j.peixoto@cruzfer.pt>",False,,,multipart/related,dkim; dkim
+ham,jose peixoto <josepeixoto2@hotmail.com>,False,,,multipart/mixed,dkim
+ham,"""José Peixoto :: CRUZFER ::"" <j.peixoto@cruzfer.pt>",False,,,multipart/related,dkim; dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/mixed,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,José Rebelo <jluizr2411@gmail.com>,False,,,multipart/mixed,spf
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/alternative,
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/alternative,
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/alternative,
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Academia Portuguesa de Psico-Oncologia APPO <academia.portuguesa.po@gmail.com>,False,,,multipart/related,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Comunicação <comunicacao@ipc.pt>,False,,,multipart/related,dkim; dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/mixed,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Beatriz Coelho <beaccoelho@hotmail.com>,False,,,multipart/alternative,spf
+ham,Seekers <ola@seekersjourney.com>,False,us21-cb10fa6dcc-f58caf8276@inbound.mailchimpapp.net,False,multipart/alternative,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/related,spf
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Seekers <ola@seekersjourney.com>,False,us21-cb10fa6dcc-f58caf8276@inbound.mailchimpapp.net,False,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,SheerID Verification <Verify@SheerID.com>,False,,,multipart/alternative,spf
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,cr formacao <cr2formacao@gmail.com>,False,,,multipart/alternative,dkim
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/mixed,
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/mixed,
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/mixed,
+ham,Beatriz da Custodia Coelho <13193@ipam.pt>,False,,,multipart/alternative,spf
+ham,LinkedIn <updates-noreply@linkedin.com>,True,,,multipart/alternative,dkim
+ham,LinkedIn <updates-noreply@linkedin.com>,True,,,multipart/alternative,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/alternative,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,maraujo <maraujo@mail.upt.pt>,False,,,multipart/mixed,dkim
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,"""José Peixoto :: CRUZFER ::"" <j.peixoto@cruzfer.pt>",False,,,multipart/alternative,dkim; dkim
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,XIV Congresso Nacional e III Congresso Luso-Brasileiro de Psico-Oncologia <noreply@congressopsicooncologia.com>,True,academia.portuguesa.po@gmail.com,False,multipart/related,dkim; spf; auth
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,Helena Pereira <helena.scep@gmail.com>,False,,,multipart/mixed,dkim
+ham,Mail Delivery Subsystem <mailer-daemon@googlemail.com>,False,,,multipart/report,dkim
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/related,
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/related,
+ham,Lucas Velhote Rebelo <lrvelholucas@gmail.com>,False,,,multipart/related,
+ham,BAL-HR-People-Ops <hradmporto@natixis.com>,False,,,multipart/related,dkim; dkim
+ham,BAL-HR-People-Ops <hradmporto@natixis.com>,False,,,multipart/related,dkim; dkim
+ham,BAL-HR-People-Ops <hradmporto@natixis.com>,False,,,multipart/related,dkim; dkim
+ham,Sonia Isabel Remondes Costa <costas@utad.pt>,False,,,multipart/alternative,dkim; dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Seekers <ola@seekersjourney.com>,False,us21-cb10fa6dcc-f58caf8276@inbound.mailchimpapp.net,False,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Beatriz Coelho <beaccoelho@hotmail.com>,False,,,multipart/alternative,spf
+ham,Beatriz Coelho <beaccoelho@hotmail.com>,False,,,multipart/alternative,spf
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,rui@upt.pt,False,,,multipart/mixed,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/mixed,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/mixed,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Joana Peixoto <joana8169@gmail.com>,False,,,multipart/mixed,
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,noreply@humblebundle.com,False,text/html,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Beatriz da Custódia Coelho <pg56667@alunos.uminho.pt>,False,,,multipart/alternative,spf
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,Intelligence X <noreply@intelx.io>,True,,,text/plain,spf
+ham,Humble Bundle <contact@mailer.humblebundle.com>,False,contact@humblebundle.com,False,text/html,dkim
+ham,USF Lindo Vale <usf.lindovale@ulssjoao.min-saude.pt>,False,,,multipart/related,dkim; dkim
+ham,USF Lindo Vale <usf.lindovale@ulssjoao.min-saude.pt>,False,,,multipart/related,dkim; dkim
+ham,USF Lindo Vale <usf.lindovale@ulssjoao.min-saude.pt>,False,,,multipart/related,dkim; dkim
+ham,INOPOL IPC <trilhos@trilhos-inopol.pt>,False,INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,INOPOL IPC <trilhos@trilhos-inopol.pt>,False,INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,INOPOL IPC <trilhos@trilhos-inopol.pt>,False,INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,False,Trilhos | INOPOL IPC <trilhos@trilhos-inopol.pt>,True,multipart/alternative,dkim
+ham,Ser a Escolha E9G <seraescolha.e9g@gmail.com>,False,,,multipart/mixed,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Sérgio Sargo <ssargo@ispgaya.pt>,False,,,multipart/related,
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Seekers <ola@seekersjourney.com>,False,Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa Seekers <ola@seekersjourney.com>,False,Equipa Seekers <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim
+ham,Equipa IGNITE <ola@seekersjourney.com>,False,Equipa IGNITE <ola@seekersjourney.com>,True,multipart/alternative,dkim

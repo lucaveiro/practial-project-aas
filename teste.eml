@@ -1,0 +1,259 @@
+Received: from PA4PR02MB8215.eurprd02.prod.outlook.com (2603:10a6:102:26c::18)
+ by GV1PR02MB8443.eurprd02.prod.outlook.com with HTTPS; Thu, 2 Jan 2025
+ 16:45:19 +0000
+Received: from AM7PR02CA0004.eurprd02.prod.outlook.com (2603:10a6:20b:100::14)
+ by PA4PR02MB8215.eurprd02.prod.outlook.com (2603:10a6:102:26c::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8314.11; Thu, 2 Jan
+ 2025 16:45:17 +0000
+Received: from AM1PEPF000252DF.eurprd07.prod.outlook.com
+ (2603:10a6:20b:100:cafe::7b) by AM7PR02CA0004.outlook.office365.com
+ (2603:10a6:20b:100::14) with Microsoft SMTP Server (version=TLS1_3,
+ cipher=TLS_AES_256_GCM_SHA384) id 15.20.8314.12 via Frontend Transport; Thu,
+ 2 Jan 2025 16:45:16 +0000
+Authentication-Results: spf=pass (sender IP is 193.136.173.3)
+ smtp.mailfrom=ua.pt; dkim=none (message not signed)
+ header.d=none;dmarc=bestguesspass action=none header.from=ua.pt;
+Received-SPF: Pass (protection.outlook.com: domain of ua.pt designates
+ 193.136.173.3 as permitted sender) receiver=protection.outlook.com;
+ client-ip=193.136.173.3; helo=mx02.ua.pt; pr=C
+Received: from mx02.ua.pt (193.136.173.3) by
+ AM1PEPF000252DF.mail.protection.outlook.com (10.167.16.57) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.8314.11 via Frontend Transport; Thu, 2 Jan 2025 16:45:16 +0000
+Received: from EXCHANGE-2-B3.ua.pt (193.136.172.125) by mx02.ua.pt
+ (193.136.173.113) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2507.39; Thu, 2 Jan
+ 2025 16:45:12 +0000
+Received: from moodle5-2.ua.pt (193.136.173.110) by EXCHANGE-2-B3.ua.pt
+ (193.136.172.125) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2507.39; Thu, 2 Jan
+ 2025 16:45:12 +0000
+Received: from moodle5-2.ua.pt (localhost [IPv6:::1])
+	by moodle5-2.ua.pt (Postfix) with ESMTP id E0E84203B237
+	for <bogalho@ua.pt>; Thu,  2 Jan 2025 16:45:11 +0000 (WET)
+Date: Thu, 2 Jan 2025 16:45:11 +0000
+To: =?utf-8?B?VE9Nw4FTIENBUlZBTEhPIEJPR0FMSE8gMTI0MjI0?= <bogalho@ua.pt>
+From: "=?utf-8?B?QU5EUsOJIFZFTlRVUkEgREEgQ1JVWiBNQVJOT1RPIFrDmlFVRVRFIChEb2M=?=
+  =?utf-8?B?ZW50ZSkgKHZpYSBlTGVhcm5pbmcp?=" <noreply-moodle@ua.pt>
+Reply-To: Do not reply to this email <noreply-moodle@ua.pt>
+Subject: 41780-CA: Grades for the 1st project
+Message-ID: <9b39d044a649ea89043a7aabf30090004694f0fd35e6a4706565149b21f8e5a1@elearning.ua.pt>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+List-Id: "Announcements" <moodleforum14759@elearning.ua.pt>
+List-Help: https://elearning.ua.pt/mod/forum/view.php?f=14759
+X-Course-Id: 16106
+X-Course-Name: Criptografia Aplicada
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+List-Unsubscribe: <>
+In-Reply-To: <9b39d044a649ea89043a7aabf30090004694f0fd35e6a4706565149b21f8e5a1@elearning.ua.pt>
+References: <9b39d044a649ea89043a7aabf30090004694f0fd35e6a4706565149b21f8e5a1@elearning.ua.pt>
+Thread-Topic: 41780-CA: Grades for the 1st project
+Thread-Index: 9b39d044a649ea89043a7aabf300
+X-Moodle-Originating-Script: https://elearning.ua.pt => moodle5-2.ua.pt:mod/forum/classes/task/send_user_notifications.php:391
+Content-Type: multipart/alternative;
+	boundary="b1=_4P82jcHxACb1fan5nzmIBtuoL0rRKFG83HozAJAUQ"
+Return-Path: noreply-moodle@ua.pt
+X-Originating-IP: [193.136.173.110]
+X-ClientProxiedBy: EXCHANGE-2-B1.ua.pt (193.136.172.123) To
+ EXCHANGE-2-B3.ua.pt (193.136.172.125)
+X-CrossPremisesHeadersFilteredBySendConnector: mx02.ua.pt
+X-OrganizationHeadersPreserved: mx02.ua.pt
+X-MS-Exchange-Organization-ExpirationStartTime: 02 Jan 2025 16:45:16.9695
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id: 9c4d0a2f-e1c9-4304-27e7-08dd2b4cd652
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: AM1PEPF000252DF:EE_|PA4PR02MB8215:EE_|GV1PR02MB8443:EE_
+X-MS-Exchange-Organization-AuthSource: AM1PEPF000252DF.eurprd07.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: uapt33090.onmicrosoft.com
+X-MS-Office365-Filtering-Correlation-Id: 9c4d0a2f-e1c9-4304-27e7-08dd2b4cd652
+X-MS-Exchange-Organization-SCL: -1
+X-Microsoft-Antispam: BCL:4;ARA:13230040|69100299015|4022899009|1032899013|82310400026|12012899012|3072899012|2092899012|3092899012|5062899012|2066899003|8096899003|4076899003;
+X-Forefront-Antispam-Report: CIP:193.136.173.3;CTRY:PT;LANG:en;SCL:-1;SRV:;IPV:CAL;SFV:SKN;H:mx02.ua.pt;PTR:mxb.ua.pt;CAT:NONE;SFS:(13230040)(69100299015)(4022899009)(1032899013)(82310400026)(12012899012)(3072899012)(2092899012)(3092899012)(5062899012)(2066899003)(8096899003)(4076899003);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 02 Jan 2025 16:45:16.8445
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9c4d0a2f-e1c9-4304-27e7-08dd2b4cd652
+X-MS-Exchange-CrossTenant-Id: c1025aae-98b9-4021-b4b6-c201214b884e
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=c1025aae-98b9-4021-b4b6-c201214b884e;Ip=[193.136.173.3];Helo=[mx02.ua.pt]
+X-MS-Exchange-CrossTenant-AuthSource: AM1PEPF000252DF.eurprd07.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PA4PR02MB8215
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.7456049
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8314.012
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	=?utf-8?B?WUdJL0lqbjAwVGt1VitmZmEzaW5rRGFQaHlSQVpERW9UbEt2SGY3RGYwYS9i?=
+ =?utf-8?B?ZWs4Zm9oQ2dYWklPUlNUbVZjaFR4VElxL3UxUXY4QUZyQmhidzRONGtLdndH?=
+ =?utf-8?B?UThzNExpMkY5SmVIOFNrU0Z3b3pTOXFFOWNZVVAvcFV2aVRPZGlRU2VOTS8y?=
+ =?utf-8?B?WlhpN01MRUNBTHNSdnVtNWlob0FjS0JVOTFlTVFCVnhEUUFXZ0JISDJCSEVi?=
+ =?utf-8?B?RklXT3ZnWGVDblFLNFlXZklZVWtZSEFpeFdxbG42bi9lYjZINlNKejRMazRi?=
+ =?utf-8?B?ZFdpcTZHTk5aOUN2YmRKSWQzRnd2SWEvNU13dm8wNjZHZUdGK1d5NmxKNHgw?=
+ =?utf-8?B?THdYbWtVY0RlZlhmR2piZ2ZVUm8rT1RGUGpaTUJLZWNHL1QvbjZjRHY5U0JT?=
+ =?utf-8?B?NUt0bW1PT2E5eDJqMlFFYUFBTnFHejdUQlVsOG5MUFdPOFgvWWtnWlc3ZzN2?=
+ =?utf-8?B?eC9kVjIzMXhKK1EzV085bWtsQnpmV2krTlR3Y1pDUDVva2ZLU0xSZHdxM01m?=
+ =?utf-8?B?TzI5MTViVnhOUEJJZ2NpSWlDUUplbnhRcDdZTVEvU2NNbUZ1bmNSc2ZhNld4?=
+ =?utf-8?B?bHBDbXFjNGRXbnp2NDZQS1RIWUhuOW5VQ3lpRWhhc1pWNE5qKzFqVitOOGVu?=
+ =?utf-8?B?MHRMVzl4d1ZGcjNwNFMwcVpuTGV4L0U4dEpDRDZSRDc1MWt3SFlBT2JJYTdr?=
+ =?utf-8?B?RHR6a0tJYzFlcTJwVTRBdURrOHM2VU4xN3NINFdheHh6UU5ZS3NSekI1MmM5?=
+ =?utf-8?B?K0JtVU5aekZCcEFXMWVWeUNKNlgyRXhOdVNSS1l6SnJnT0ZRY2V1WFBmWFor?=
+ =?utf-8?B?M3dOcGRKcDl2cjdmWVVxS25lajMvWC9MeWNxVzRXb3RSVGtucE9tVUJHMWVp?=
+ =?utf-8?B?aWRQZWtpbmhtN3ZPeERxeHpTWlNNMitMbjBYK1E2bmlPc2Zvbmw1cGF3Nmdy?=
+ =?utf-8?B?NHZZc1J5QmZzRDUzOGxxeWJldjNwamlYRTFCcjFCT2d5Z1pkbjJiK0pCZFVO?=
+ =?utf-8?B?TmZ0RXhiY2VxZHBpNHdMeWhpd1FaZUlkc3NYN0Q4bVowcDVKWFhjaW1OTmtW?=
+ =?utf-8?B?R3J0T2VGOGY0bENvUXN1VExOTUhmWlI1V3NrTE9xV2wwb1hmZkhER0FRVTc3?=
+ =?utf-8?B?am1KUmM1M293QlJ1cll0Q3FlQjFFSkRvQVZBVS80STdkN0VDNFg4SEJXTjZM?=
+ =?utf-8?B?TytkeWN4ZXI0UXVkSlpPaUhOVjlnV1NZc1V6MHg4ZksybU51amduL0g5OWRV?=
+ =?utf-8?B?akxma1VzMXJ5d3UrRGxKemRmSkgrNmhsZHo0ZXBCMCtrdUNZM0lURkZ5ZkFU?=
+ =?utf-8?B?MGdsSktySk5IOXNHL3liczBPRU5PME81Q2IycVEwS0h0MG10Y0tWNXBoUHA2?=
+ =?utf-8?B?NU5aZW4rc0IxUkxuemlqb2c4cEhLdkpFRHFGS2kyQmJnbldpZThZT1ErUDc5?=
+ =?utf-8?B?SGJWYTMrbFNUSHkwclZiQTltaythODZBeHN2dmJ2dUQzZmNzaGt6UEM2N3hz?=
+ =?utf-8?B?TkhIK2hUTGVHMThDN1l1U1o1UWxqS2FmYUFkVFZldzB0QTljd1hjV1RFUmVz?=
+ =?utf-8?B?dkNCelE3Y1UvTmdEZnpPbGpaZFRVMGlLKzQxSHlkR0xnUC94UEoyRGRXaEl1?=
+ =?utf-8?B?RE83WnNNMTlZM0E4SHZPZEM1c3NlOGZxenFXNTBJZzZDL25jNTZYWUV0ZGpW?=
+ =?utf-8?B?YWU3VjZNdGtPUklZOUQwVS9ISEFOYndwZWVZcDJjZmZzMjI0TUFMNXNmMDFW?=
+ =?utf-8?B?RWV3R3JpNWE1V0JyRHVBSy9kNHNoVkc3azVYM1ZMUTNWdmFtckx1SWk3YnZ3?=
+ =?utf-8?B?Q0NBZW9mTEdYWVIyZkxrMzExZ3EvNDhDelY1TWhhYzJqS2ZGNnkwMC9uUWE0?=
+ =?utf-8?B?L2d2OGJjUWRESmdFdkFLVlBDV1EzT29LaEM0U3Zsa1lpUnVwd0wrS2FJSGJV?=
+ =?utf-8?B?ckRXc2szcFZ3VjYzMEczZWpSWHpUM3hocE9vcER3VGpuZzcyTXoyWUJxRjhm?=
+ =?utf-8?B?WWQyMVZiT0tYWVNDR045Y3VHOTl5Y214d1I4QTQzTDBCOXhPdHBJZVZRT2Fw?=
+ =?utf-8?B?MWk3Qkx1QW9MWFptQklYUS9wWlBrcnNpREpvZkZITDJKb09RaklLUFU2VnF1?=
+ =?utf-8?B?WVRSZ0lnVVRralVIcUFRbnk2VWtTRmJVcnRPS0xXT2lXUldHUDYrTTZ0SCtp?=
+ =?utf-8?B?RFZuTE1oMk1IN09tZ1lwWC9ScjI0dnRSY2k4SW5PZnVvWHB2NU9xVVlNZnZa?=
+ =?utf-8?B?KzdYMElsZXp6Qk5tZ3FoZTQxcXJzVGhRWVd4NkRGaTF6TW05RDlPKzJuOXRG?=
+ =?utf-8?B?RW5HRXJHZ3hBSi9odHlLYUVxOEUwRHphRkJybCtJQzB3VlprdEYvZEFlaVlm?=
+ =?utf-8?B?dzJpYTR5ZnRTRThvdSt0eHFJVUNKcmxkUVVNQ2ZKeUI5TEE0VFVSdUFTMlNT?=
+ =?utf-8?B?TGVCRkw2dzNVV212YWx1aFB6cnJ2Z1MxemRqemFLTGFIazhjZTdqb0V1b2Ni?=
+ =?utf-8?B?ZjhVc1RkZFh5VXpZVG56MmcxKzZFMFQ1dTFJVlVadzFOcGNrbncvNWwrdXpL?=
+ =?utf-8?B?RmxDcTdSbS9hMjZ3VVpXNDFWM2IxeldibTNpeWhRcVRheWJhZ2xlK3FLR2I4?=
+ =?utf-8?B?SDNiTGZldkVxZ3lOeGN5Y3BQWVdoUHArOWJFdzBETnl5SlkwM3UrSFo3MU1v?=
+ =?utf-8?B?OTNyLzFrSmZhYzIxNjdERS96aG9BZDYzNzBsYStCZUpBeEFLS1hqSmZuUjBu?=
+ =?utf-8?B?Tjl3Wnc2aTRhTkhtZHlLQjBBVUtGQ3JIcmJjWWJZT3BFVHVzbFptdHZCS3NR?=
+ =?utf-8?B?PT0=?=
+MIME-Version: 1.0
+
+--b1=_4P82jcHxACb1fan5nzmIBtuoL0rRKFG83HozAJAUQ
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+41780-CA -> Forums -> Announcements -> Grades for the 1st project
+https://elearning.ua.pt/mod/forum/discuss.php?d=3D542763#p603900
+Grades for the 1st project
+by ANDR=C3=89 VENTURA DA CRUZ MARNOTO Z=C3=9AQUETE (Docente) - Thursday, 2 =
+January
+2025, 4:14 PM
+---------------------------------------------------------------------
+Dear students,
+
+The initial version of the grades are available in eLearning.
+
+If you have any questions please enter my Zoom session
+(https://videoconf-colibri.zoom.us/my/andre.zuquete [1]) tomorrow, Friday,
+January 3th, from 18 to 20.
+
+I'll let the students enter individually or in group, so you may have to
+wait in the waiting oom.
+
+Season's Greetings!
+
+Regards,
+
+Links:
+------
+[1] https://videoconf-colibri.zoom.us/my/andre.zuquete
+
+---------------------------------------------------------------------
+This is a copy of a message posted in 41780-CA.
+
+Change your forum digest preferences:
+https://elearning.ua.pt/mod/forum/index.php?id=3D16106
+
+--b1=_4P82jcHxACb1fan5nzmIBtuoL0rRKFG83HozAJAUQ
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><d=
+iv class=3D"navbar">=0A=
+    <div class=3D"container-fluid p-0">=0A=
+        <a target=3D"_blank" href=3D"https://elearning.ua.pt/course/view.ph=
+p?id=3D16106">41780-CA</a>=0A=
+        =C2=BB=0A=
+        <a target=3D"_blank" href=3D"https://elearning.ua.pt/mod/forum/inde=
+x.php?id=3D16106">Forums</a>=0A=
+        =C2=BB=0A=
+        <a target=3D"_blank" href=3D"https://elearning.ua.pt/mod/forum/view=
+.php?f=3D14759">Announcements</a>=0A=
+        =C2=BB=0A=
+        <a target=3D"_blank" href=3D"https://elearning.ua.pt/mod/forum/disc=
+uss.php?d=3D542763">Grades for the 1st project</a>=0A=
+    </div>=0A=
+</div>=0A=
+=0A=
+<table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost"=
+>=0A=
+    <tr class=3D"header">=0A=
+        <td width=3D"35" valign=3D"top" class=3D"picture left">=0A=
+            <a href=3D"https://elearning.ua.pt/user/view.php?id=3D15110&amp=
+;course=3D16106" class=3D"d-inline-block aabtn"><img src=3D"https://elearni=
+ng.ua.pt/pluginfile.php/15186/user/icon/adaptable/f2?rev=3D482782" class=3D=
+"userpicture" width=3D"35" height=3D"35" alt=3D"ANDR=C3=89 VENTURA DA CRUZ =
+MARNOTO Z=C3=9AQUETE (Docente)" title=3D"ANDR=C3=89 VENTURA DA CRUZ MARNOTO=
+ Z=C3=9AQUETE (Docente)"></a>=0A=
+        </td>=0A=
+        <td class=3D"topic starter">=0A=
+            <div class=3D"subject">=0A=
+                Grades for the 1st project=0A=
+            </div>=0A=
+            <div class=3D"author">=0A=
+                by <a target=3D"_blank" href=3D"https://elearning.ua.pt/use=
+r/view.php?id=3D15110&amp;course=3D16106">ANDR=C3=89 VENTURA DA CRUZ MARNOT=
+O Z=C3=9AQUETE (Docente)</a> - Thursday, 2 January 2025, 4:14 PM=0A=
+            </div>=0A=
+        </td>=0A=
+    </tr>=0A=
+    <tr>=0A=
+        <td class=3D"left side" valign=3D"top">=0A=
+                &nbsp;=0A=
+        </td>=0A=
+        <td class=3D"content">=0A=
+            <p>Dear students,</p>
+<p>The initial version of the grades are available in eLearning.</p>
+<p>If you have any questions please enter my Zoom session (<a href=3D"https=
+://videoconf-colibri.zoom.us/my/andre.zuquete">https://videoconf-colibri.zo=
+om.us/my/andre.zuquete</a>) tomorrow, Friday, January 3th, from 18 to 20.</=
+p>
+<p>I'll let the students enter individually or in group, so you may have to=
+ wait in the waiting oom.</p>
+<p>Season's Greetings!</p>
+<p>Regards,</p>=0A=
+=0A=
+            <div class=3D"commands">=0A=
+            </div>=0A=
+=0A=
+            <div class=3D"link">=0A=
+                <a target=3D"_blank" href=3D"https://elearning.ua.pt/mod/fo=
+rum/discuss.php?d=3D542763#p603900">=0A=
+                    See this post in context=0A=
+                </a>=0A=
+            </div>=0A=
+        </td>=0A=
+    </tr>=0A=
+</table>=0A=
+=0A=
+<hr>=0A=
+<div class=3D"mdl-align unsubscribelink">=0A=
+    <a href=3D"https://elearning.ua.pt/mod/forum/index.php?id=3D16106">Chan=
+ge your forum digest preferences</a>=0A=
+</div>
+
+--b1=_4P82jcHxACb1fan5nzmIBtuoL0rRKFG83HozAJAUQ--
